@@ -39,3 +39,4 @@ jobs:
         github_token: ${{ secrets.HEXO_TOKEN }}
         publish_dir: ./public
         branch: main
+        publish_branch: main
