@@ -39,4 +39,5 @@ jobs:
         github_token: ${{ secrets.HEXO_TOKEN }}
         publish_dir: ./public
         branch: main
+        external_repository: meteorOSS.github.io
         publish_branch: main
