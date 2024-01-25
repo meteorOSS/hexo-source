@@ -18,7 +18,10 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: '14'
-
+        
+    - name: Install Hexo
+      run: npm install -g hexo-cli
+      
     - name: Install dependencies
       run: npm install
 
