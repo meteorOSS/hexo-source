@@ -1,38 +1,14 @@
----
-title: Hello World
----
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+## Hexo-Source: Test Repository
+This is a testing ground for an automated process that converts GitHub Issues into blog posts.
 
-## Quick Start
+## How It Works
 
-### Create a new post
+Issues created in this repository will be automatically synchronized and published as blog posts on https://meteoross.github.io/.
 
-``` bash
-$ hexo new "My New Post"
-```
+This serves as a live demonstration of integrating GitHub Issues with Hexo blogging.
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+## Interested?
 
-### Run server
+If you're interested in this workflow and want to implement it for your own blog, check out the main project repository at https://github.com/meteorOSS/hexo-issue-blog-automation for more details and setup instructions.
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+Feel free to test the process by creating Issues here and seeing them transform into blog posts!
